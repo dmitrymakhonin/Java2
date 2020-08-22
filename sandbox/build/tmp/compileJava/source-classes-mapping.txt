@@ -1,2 +1,8 @@
+Package1/Square.java
+ Package1.Square
+Package1/Point.java
+ Package1.Point
 Package1/MyFirstProgram.java
  Package1.MyFirstProgram
+Package1/Rectangle.java
+ Package1.Rectangle
